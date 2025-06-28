@@ -1,0 +1,8 @@
+ID,Nombre,Precio,Stock,Vendidos
+1,Filtro_de_aceite,25.00,4,16
+2,Pastillas_de_freno,40.00,4,11
+3,Bujias,10.00,30,0
+4,Amortiguadores,80.00,10,0
+5,Radiadores,120.00,8,0
+6,Baterias,150.00,12,0
+7,Refrigerante,18.00,25,0
